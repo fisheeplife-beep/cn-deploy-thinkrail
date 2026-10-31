@@ -1,5 +1,7 @@
 # cn-deploy-thinkrail
 
+> **Series index:** [cn-deploy](https://github.com/fisheeplife-beep/cn-deploy) — Chinese follow-along deployment companions.
+
 Chinese, follow-along **deployment companion** for [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — not an official fork, and not a verbatim copy of upstream docs.
 
 **Start here (ZH):** [README.zh-CN.md](./README.zh-CN.md)

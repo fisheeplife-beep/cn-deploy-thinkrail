@@ -1,5 +1,7 @@
 # ThinkRail 国内可跟做部署配套
 
+> **系列索引：** [cn-deploy](https://github.com/fisheeplife-beep/cn-deploy) — 中文可跟做部署配套合集。
+
 > 上游仓库：[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)  
 > 官网 / 文档：https://thinkrail.ai · Blog：https://thinkrail.ai/blog  
 > Discord：https://thinkrail.ai/discord  

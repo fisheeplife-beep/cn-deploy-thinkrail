@@ -1,0 +1,18 @@
+# Official installer (stable 0.3.0) — author box 2026-10-31 Asia/Shanghai
+# curl -fsSL https://raw.githubusercontent.com/JetBrains/thinkrail/main/install.sh | bash -s -- --channel stable --version 0.3.0 --prefix /tmp/thinkrail-prefix --no-modify-path
+
+Resolving latest stable release for linux/x64 ...
+  → v0.3.0
+Downloading thinkrail-linux-x64 ...
+######################################################################## 100.0%
+Downloading SHA256SUMS ...
+######################################################################## 100.0%
+Verifying checksum ...
+  → ok
+Installed → /tmp/thinkrail-prefix/bin/thinkrail
+
+ThinkRail 0.3.0 (stable) installed.
+Add to PATH:    export PATH="$PATH:/tmp/thinkrail-prefix/bin"
+Run:            thinkrail
+Update later:   thinkrail update
+Uninstall:      thinkrail uninstall

@@ -1,0 +1,12 @@
+# thinkrail --no-open --host 127.0.0.1 --port 24243 <git-repo>
+# then: curl -sS -D- http://127.0.0.1:24243/ | head
+
+[2026-10-31T15:05:05.400Z] INFO: [log] logging initialized (thinkrail 0.3.0, pid 505199, level info)
+[2026-10-31T15:05:05.430Z] INFO: [host] listening on port 24243
+thinkrail → http://127.0.0.1:24243
+
+HTTP/1.1 200 OK
+content-type: text/html;charset=utf-8
+content-length: 2988
+
+(body starts with <!doctype html> … <title>ThinkRail</title> …)
